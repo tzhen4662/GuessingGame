@@ -16,7 +16,7 @@ public class GuessingGame {
 			{
 				try
 				{
-					System.out.println("Try and guess my number!");
+					System.out.println("Try and guess my number please!");
 					int x = input.nextInt();
 					guess = x;
 					isNumber = true;
