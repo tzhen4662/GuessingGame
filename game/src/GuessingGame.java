@@ -16,7 +16,7 @@ public class GuessingGame {
 			{
 				try
 				{
-					System.out.println("Try and guess my number please!");
+					System.out.println("Try and guess my number please! Hint: It's between 1 and 10!");
 					int x = input.nextInt();
 					guess = x;
 					isNumber = true;
